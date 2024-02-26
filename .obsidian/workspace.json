@@ -1,0 +1,191 @@
+{
+  "main": {
+    "id": "b7ff5846ae54ec0c",
+    "type": "split",
+    "children": [
+      {
+        "id": "9fa86fd246f28e50",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "15410626706ac645",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "C/Pointers.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "7d24274b91333952",
+    "type": "split",
+    "children": [
+      {
+        "id": "e37da37ca722a922",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d81f21cbaa6fd269",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "a203c70e3eb5d58e",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "ac3f111fd8b01dd4",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 221.5
+  },
+  "right": {
+    "id": "42e57a1d4c2d279e",
+    "type": "split",
+    "children": [
+      {
+        "id": "2a90c4db27b6d96d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7b1818318d6f8625",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "C/Pointers.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": true,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "b46e1f7f9f1dd2c9",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "C/Pointers.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "b6fce0dd90fc6714",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "ecad7fd1ed573abc",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "C/Pointers.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 330.5,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "15410626706ac645",
+  "lastOpenFiles": [
+    "Obsidian",
+    "Obsidian-Vault",
+    "Git and GitHub/Tags.md",
+    "Parallel Processing/CH1 Introduction to Advanced Computer Architecture and Parallel Processing.md",
+    "Parallel Computing/CH 1 Introduction to High Performance Computing HPC.md",
+    "C/Pointers.md",
+    "Parallel Computing/Media/Pasted image 20240222135703.png",
+    "OS/RELATED CONCEPTS.md",
+    "Parallel Computing/Media",
+    "Git and GitHub/Git Internals.md",
+    "Git and GitHub/Working with Remotes.md",
+    "Parallel Computing",
+    "C/Media/Pasted image 20240220234448.png",
+    "C/Media",
+    "C",
+    "OS/CH1 INTRODUCTION.md",
+    "Parallel Processing/Snapshots/Pasted image 20240219214600.png",
+    "Parallel Processing/Snapshots/Pasted image 20240219214534.png",
+    "Parallel Processing/Snapshots/Pasted image 20240219074756.png",
+    "Parallel Processing/Snapshots/Pasted image 20240219074626.png",
+    "Pasted image 20240219074531.png",
+    "Parallel Processing/Snapshots/Pasted image 20240219074527.png",
+    "Parallel Processing/Snapshots",
+    "Pasted image 20240219074018.png",
+    "Pasted image 20240219010058.png",
+    "Parallel Processing",
+    "Git and GitHub/Merging & Branching/Branching and Merging.md",
+    "Git and GitHub/ADDITIONALS & TERMINOLOGIES.md",
+    "Git and GitHub",
+    "Undoing Things.md",
+    "OS",
+    "Git Remotes.md",
+    "Git & Github.md",
+    "Merging & Branching/Merging.md",
+    "Git and GitHub/Merging & Branching/Bash Script.md",
+    "Git and GitHub/Merging & Branching",
+    "My Notes/MY NOTES.md",
+    "My Notes/New One.md",
+    "Hello.md"
+  ]
+}

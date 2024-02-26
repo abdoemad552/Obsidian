@@ -1,0 +1,11 @@
+{
+  "accentColor": "#ff1f4b",
+  "theme": "obsidian",
+  "interfaceFontFamily": "Roboto,Times LT Std",
+  "monospaceFontFamily": "M+ 1mn,Approach Mono TRIAL,Consolas",
+  "cssTheme": "Minimal",
+  "textFontFamily": "Roboto,Times LT Std,Product Sans",
+  "baseFontSize": 15,
+  "nativeMenus": false,
+  "translucency": false
+}
